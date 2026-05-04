@@ -1,5 +1,5 @@
 // Am-241 Spectrum Simulation using Von Neumann Monte Carlo Methods
-// Converted from QuickBASIC 4.5 (circa 1994)
+// (circa 1994)
 
 const PI = Math.PI;
 
