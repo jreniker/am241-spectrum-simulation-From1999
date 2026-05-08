@@ -136,10 +136,10 @@ export default function Am241Simulator() {
         <footer className="mt-8 border-t border-border pt-6">
           <div className="text-center text-xs text-muted-foreground">
             <p>
-              Originally written in QuickBASIC 4.5 (circa 1994) for germanium detector simulation.
+              First version created in 1994, with the final stable version in 1999
             </p>
             <p className="mt-1">
-              Converted to modern web application preserving all Monte Carlo physics algorithms.
+              Converted to modern web application preserving all Monte Carlo physics algorithms in 2026.
             </p>
           </div>
         </footer>
